@@ -10,3 +10,5 @@
 
 * "Classic" - Piensa mucho de el por ser developer de Koru servidor cuyo kb parece combo.
 
+* "x_JustPoop" - 0 de Java bro.
+
