@@ -6,3 +6,5 @@
 
 * "LeandroSSJ" - xHCF/tHCF una mezcla de todos los forks de iHCF. Pruebas: https://prnt.sc/t6nobl & https://prnt.sc/t6nnh5 y forceop https://image.prntscr.com/image/BtxT3B0oTxaz0HMXrXrJcQ.png
 
+* "Lean_" - Lo descuidas un minuto y usa un if como si fuera un for.
+
