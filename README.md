@@ -1,14 +1,12 @@
 # Skid-List
+⭑ "k5z | Taysom" - He sells github projects and scam, he proclaims himself a good developer. Proofs: https://prnt.sc/tjvlqn & https://prnt.sc/tjvmmt
 
-* "k5z" - Agarra forks de otros les cambia el package y pum kHCF. Pruebas: https://prnt.sc/tjvlqn & https://prnt.sc/tjvmmt
+⭑ "DevJohan | IITylorII" - 18 TPS with 3 players online.
 
-* "DevJohan" - 18 tps 3 players en WaveHCF
+⭑ "LeandroSSJ" - Skidded core (xHCF/tHCF) full of backdoors for $15, what a fucking clown. Proofs: https://prnt.sc/t6nobl & https://prnt.sc/t6nnh5 y forceop https://image.prntscr.com/image/BtxT3B0oTxaz0HMXrXrJcQ.png
 
-* "LeandroSSJ" - xHCF/tHCF una mezcla de todos los forks de iHCF. Pruebas: https://prnt.sc/t6nobl & https://prnt.sc/t6nnh5 y forceop https://image.prntscr.com/image/BtxT3B0oTxaz0HMXrXrJcQ.png
+⭑ "Lean_ | LeanLK" - final final final final final final.
 
-* "Lean_" - Lo descuidas un minuto y usa un if como si fuera un for.
+⭑ "Classic" - Not a good developer.
 
-* "Classic" - Piensa mucho de el por ser developer de Koru servidor cuyo kb parece combo.
-
-* "x_JustPoop" - Aprende un poco de Java porfa.
-
+⭑ "xJust_poop" - Can't even code.
