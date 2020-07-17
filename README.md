@@ -8,5 +8,5 @@
 
 * "Lean_" - Lo descuidas un minuto y usa un if como si fuera un for.
 
-* "Classic" - Se siente DoctorDark por ser developer de Koru.
+* "Classic" - Piensa mucho de el por ser developer de Koru servidor cuyo kb parece combo.
 
