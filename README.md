@@ -10,4 +10,7 @@
 * "Classic" - Not a good developer.
 
 * "xJust_poop" - Can't even code.
+
 * "iDoceTM" - Do I really need to say why?
+
+* "ByJoako" - Refuses to provide proof of ownership and code snippets, another nasty skid. Proofs: https://prnt.sc/tkf7lc | https://prnt.sc/tkf7qc%7D
